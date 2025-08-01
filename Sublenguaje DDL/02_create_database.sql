@@ -1,8 +1,4 @@
-/*
-Es utilizada para crear nuevos objetos.
-
-Crearemos una base de datos llamada ‘CarreraDA’:
-*/
+-- Crearemos una base de datos llamada ‘CarreraDA’:
 
 CREATE DATABASE CarreraDA;
 
