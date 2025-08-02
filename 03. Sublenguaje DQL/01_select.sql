@@ -12,7 +12,7 @@ a. columna1, columna2, ... son los nombres de los campos de la tabla de los cual
 b. nombre_de_la_tabla representa el nombre de la tabla desde donde deseas obtener 
    los datos.
 
-Ejemplo
+Ejemplo:
 
 Obtener datos de la tabla Clientes:
 */
@@ -21,9 +21,9 @@ SELECT Nombre, Email FROM Clientes;
 
 /*
 Si deseas devolver todas las columnas, sin necesidad de especificar cada nombre de 
-columna, puedes usar la sintaxis SELECT *:
+columna, puedes usar la sintaxis SELECT *.
 
-Ejemplo
+Ejemplo:
 
 Obtener todas las columnas de la tabla Clientes:
 */
